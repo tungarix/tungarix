@@ -6,3 +6,4 @@ Elektrik-Elektronik Mühendisliği okuyorum, **Aktenak**'ın kurucu ortağıyım
 - 🗓️ [Takvim](https://github.com/tungarix/takvim) — yerel-öncelikli, hesapsız, çevrimdışı masaüstü takvim uygulaması (Windows). `.ics` içe/dışa aktarma, tekrarlı etkinlikler, hatırlatıcılar. 383 test.
 
 İlgi alanım: sistem tasarımı, oyun geliştirme.
+
