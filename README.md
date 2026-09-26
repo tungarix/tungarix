@@ -22,7 +22,7 @@ This is where my tools live in the open: download them, read the code, and tell 
       <sub>01 / PRODUCT</sub>
       <h3><a href="https://github.com/tungarix/takvim">Takvim</a></h3>
       <p>A local-first desktop calendar. No account, no internet: your data stays on your machine.</p>
-      <p><a href="https://github.com/tungarix/takvim/releases/latest"><b>Download v1.3.0 →</b></a></p>
+      <p><a href="https://github.com/tungarix/takvim/releases/latest"><b>Download v1.4.0 →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <sub>02 / STUDIO</sub>
@@ -35,7 +35,7 @@ This is where my tools live in the open: download them, read the code, and tell 
 
 ## On the workbench: Takvim
 
-**No account, no internet, one file.** A desktop calendar for Windows with day, week and month views, recurring events, reminders, and `.ics` import and export. Built with Python + pywebview; your data lives in a local SQLite file. The interface is in Turkish.
+**No account, no internet, one file.** A desktop calendar for Windows with day, week and month views, recurring events, reminders, and `.ics` import and export. Built with Python + pywebview; your data lives in a local SQLite file. Interface in Turkish or English.
 
 <p align="center">
   <a href="https://github.com/tungarix/takvim">
@@ -49,7 +49,7 @@ This is where my tools live in the open: download them, read the code, and tell 
 | :--- | :--- |
 | **Data** | On your machine, in local SQLite. No account, no server. |
 | **Portability** | `.ics` import and export, so you can move in from or out to other calendars. |
-| **Quality** | 436 tests, CI on every push with GitHub Actions. |
+| **Quality** | 457 tests, CI on every push with GitHub Actions. |
 | **License** | MIT |
 
 <br>
