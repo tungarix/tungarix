@@ -34,7 +34,7 @@ This is where my tools live in the open: download them, read the code, and tell 
     <td width="34%" valign="top">
       <sub>03 / STUDIO</sub>
       <h3><a href="https://aktenak-site.ardaakg36.workers.dev/en/">Aktenak</a></h3>
-      <p>A two-person studio based in Kocaeli, Türkiye. Much care for little work: narrow focus over broad promises.</p>
+      <p>A two-person studio based in Kocaeli, Türkiye. Small output, high care: narrow focus over broad promises.</p>
       <p><a href="https://aktenak-site.ardaakg36.workers.dev/en/studio/"><b>Meet the studio →</b></a></p>
     </td>
   </tr>
@@ -63,7 +63,7 @@ This is where my tools live in the open: download them, read the code, and tell 
 
 ## Also shipped: Habit Tracker
 
-**No account, no server.** A desktop habit tracker: daily check-ins, a 30-day heat strip per habit, a Pomodoro focus timer, weekly tasks, mood tracking, a classic monthly grid view, and streak/completion stats — including a mood-to-completion correlation. Runs from the system tray (optionally at Windows login) and has keyboard shortcuts (`Ctrl+1..4` tabs, `Ctrl+N` new habit), plus an evening reminder if habits are still pending. Built with Flutter; your data lives in a local SQLite database.
+**No account, no server.** A desktop habit tracker: daily check-ins, a 30-day heat strip per habit, a Pomodoro focus timer, weekly tasks, mood tracking, a classic monthly grid view, and streak/completion stats — including a mood-to-completion correlation. Runs from the system tray, has keyboard shortcuts (`Ctrl+1..4` tabs, `Ctrl+N` new habit), an optional start-at-login toggle, and an evening reminder if you haven't checked in yet. Built with Flutter; your data lives in a local SQLite database.
 
 <p align="center">
   <a href="https://github.com/tungarix/habit-tracker">
@@ -78,6 +78,7 @@ Try it and tell me what's missing or broken: [open an issue](https://github.com/
 | **Data** | On your machine, local SQLite. No account, no server. |
 | **Backup** | Full JSON export/import — merge or replace. |
 | **Platform** | Windows, portable — unzip and run. |
+| **Quality** | 71 tests, CI on every push with GitHub Actions. |
 | **License** | MIT |
 
 <br>
