@@ -65,6 +65,12 @@ This is where my tools live in the open: download them, read the code, and tell 
 
 **No account, no server.** A desktop habit tracker: daily check-ins, a 30-day heat strip per habit, a Pomodoro focus timer, weekly tasks, mood tracking, a classic monthly grid view, and streak/completion stats — including a mood-to-completion correlation. Built with Flutter; your data lives in a local SQLite database.
 
+<p align="center">
+  <a href="https://github.com/tungarix/habit-tracker">
+    <img src="https://raw.githubusercontent.com/tungarix/habit-tracker/master/docs/screenshot.png" width="100%" alt="Habit Tracker's daily panel: today's habits and mood picker on the left, 30-day heat strips in the middle, a focus timer and weekly tasks on the right.">
+  </a>
+</p>
+
 Try it and tell me what's missing or broken: [open an issue](https://github.com/tungarix/habit-tracker/issues), or read more on the [product page](https://aktenak-site.ardaakg36.workers.dev/en/projects/habit-tracker/).
 
 | Topic | In short |
