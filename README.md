@@ -22,7 +22,7 @@ This is where my tools live in the open: download them, read the code, and tell 
       <sub>01 / PRODUCT</sub>
       <h3><a href="https://github.com/tungarix/takvim">Takvim</a></h3>
       <p>A local-first desktop calendar. No account, no internet: your data stays on your machine.</p>
-      <p><a href="https://github.com/tungarix/takvim/releases/latest"><b>Download v1.4.0 →</b></a></p>
+      <p><a href="https://github.com/tungarix/takvim/releases/latest"><b>Download for Windows →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <sub>02 / STUDIO</sub>
