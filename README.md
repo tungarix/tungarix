@@ -6,6 +6,7 @@
   <a href="https://github.com/tungarix/takvim"><b>Takvim</b></a> &nbsp; / &nbsp;
   <a href="https://github.com/tungarix/habit-tracker"><b>Habit Tracker</b></a> &nbsp; / &nbsp;
   <a href="https://aktenak-site.ardaakg36.workers.dev/en/"><b>Aktenak</b></a> &nbsp; / &nbsp;
+  <a href="https://x.com/tungarix"><b>X</b></a> &nbsp; / &nbsp;
   <a href="https://github.com/tungarix/takvim/issues"><b>Feedback</b></a>
 </p>
 
