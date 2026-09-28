@@ -84,6 +84,13 @@ Try it and tell me what's missing or broken: [open an issue](https://github.com/
 
 <br>
 
+## Contributions
+
+Found and fixed two Windows installer/test bugs in [avenoxbeyin](https://github.com/avenoxai/avenoxbeyin) that broke the V2→V3 upgrade and hid 23 test failures on Python 3.14 — both merged same-day.
+[#119](https://github.com/avenoxai/avenoxbeyin/pull/119) · [#126](https://github.com/avenoxai/avenoxbeyin/pull/126)
+
+<br>
+
 ---
 
 <p align="center">
