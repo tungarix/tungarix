@@ -79,7 +79,7 @@ Try it and tell me what's missing or broken: [open an issue](https://github.com/
 | **Data** | On your machine, local SQLite. No account, no server. |
 | **Backup** | Full JSON export/import — merge or replace. |
 | **Platform** | Windows, portable — unzip and run. |
-| **Quality** | 71 tests, CI on every push with GitHub Actions. |
+| **Quality** | 72 tests, CI + automated releases with GitHub Actions. |
 | **License** | MIT |
 
 <br>
