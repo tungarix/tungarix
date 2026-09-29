@@ -20,20 +20,26 @@ This is where my tools live in the open: download them, read the code, and tell 
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <sub>01 / CALENDAR</sub>
       <h3><a href="https://github.com/tungarix/takvim">Takvim</a></h3>
       <p>A local-first desktop calendar. No account, no internet: your data stays on your machine.</p>
       <p><a href="https://github.com/tungarix/takvim/releases/latest"><b>Download for Windows →</b></a></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <sub>02 / HABITS</sub>
       <h3><a href="https://github.com/tungarix/habit-tracker">Habit Tracker</a></h3>
       <p>A local-first habit tracker. Habits, mood, tasks and focus sessions in one panel.</p>
       <p><a href="https://github.com/tungarix/habit-tracker/releases/latest"><b>Download for Windows →</b></a></p>
     </td>
-    <td width="34%" valign="top">
-      <sub>03 / STUDIO</sub>
+    <td width="25%" valign="top">
+      <sub>03 / AI</sub>
+      <h3><a href="https://github.com/tungarix/yerel-llm-8gb">Local LLM setup</a></h3>
+      <p>Two open-weight models on 8 GB of VRAM — measured llama.cpp flags, and a quantization finding.</p>
+      <p><a href="https://github.com/tungarix/yerel-llm-8gb"><b>Read the notes →</b></a></p>
+    </td>
+    <td width="25%" valign="top">
+      <sub>04 / STUDIO</sub>
       <h3><a href="https://aktenak-site.ardaakg36.workers.dev/en/">Aktenak</a></h3>
       <p>A two-person studio based in Kocaeli, Türkiye. Small output, high care: narrow focus over broad promises.</p>
       <p><a href="https://aktenak-site.ardaakg36.workers.dev/en/studio/"><b>Meet the studio →</b></a></p>
