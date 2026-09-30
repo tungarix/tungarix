@@ -95,6 +95,9 @@ Try it and tell me what's missing or broken: [open an issue](https://github.com/
 Found and fixed two Windows installer/test bugs in [avenoxbeyin](https://github.com/avenoxai/avenoxbeyin) that broke the V2→V3 upgrade and hid 23 test failures on Python 3.14 — both merged same-day.
 [#119](https://github.com/avenoxai/avenoxbeyin/pull/119) · [#126](https://github.com/avenoxai/avenoxbeyin/pull/126)
 
+Reported a Windows/MSIX deadlock where `update` and `recover` both failed on vaults installed before #114, with a full trace. The maintainer fixed it upstream in v3.6.0 and credited the report.
+[#139](https://github.com/avenoxai/avenoxbeyin/issues/139) · [#162](https://github.com/avenoxai/avenoxbeyin/pull/162)
+
 <br>
 
 ---
