@@ -90,6 +90,21 @@ Try it and tell me what's missing or broken: [open an issue](https://github.com/
 
 <br>
 
+## Also shipped: Dosya Dolabı
+
+**Your files, sorted into real folders.** An Android app, designed for tablets and responsive on phones, that sorts PDFs, slides and documents into categories that are actual folders on the device. New downloads land in an inbox, categories nest, every file has a preview so you can recognize it even when its name says nothing, and there is undo plus a 30-day trash. Turkish interface, sideload-only APK, built with Flutter.
+
+**Early access.** Checked in an Android 15 tablet emulator and at phone size, not yet on a physical device, so early testers are the point: [open an issue](https://github.com/tungarix/dosya-dolabi/issues) or [download the APK](https://github.com/tungarix/dosya-dolabi/releases/latest).
+
+| Topic | In short |
+| :--- | :--- |
+| **Data** | Stays on your device. The app has no internet permission. |
+| **Install** | APK from Releases; asks for Android's "all files access" so it can move files into folders. |
+| **Quality** | 84 automated tests. |
+| **License** | MIT |
+
+<br>
+
 ## Contributions
 
 Found and fixed two Windows installer/test bugs in [avenoxbeyin](https://github.com/avenoxai/avenoxbeyin) that broke the V2→V3 upgrade and hid 23 test failures on Python 3.14 — both merged same-day.
