@@ -101,7 +101,7 @@ Try it and tell me what's missing or broken: [open an issue](https://github.com/
   </a>
 </p>
 
-**Early access.** Checked in an Android 15 tablet emulator and at phone size, not yet on a physical device, so early testers are the point: [open an issue](https://github.com/tungarix/dosya-dolabi/issues) or [download the APK](https://github.com/tungarix/dosya-dolabi/releases/latest).
+**Early access.** Checked in an Android 15 tablet emulator and on a real device with no problems so far; more testers on other devices are the point: [open an issue](https://github.com/tungarix/dosya-dolabi/issues) or [download the APK](https://github.com/tungarix/dosya-dolabi/releases/latest).
 
 | Topic | In short |
 | :--- | :--- |
