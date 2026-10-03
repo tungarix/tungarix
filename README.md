@@ -95,6 +95,12 @@ Try it and tell me what's missing or broken: [open an issue](https://github.com/
 
 **Your files, sorted into real folders.** An Android app, designed for tablets and responsive on phones, that sorts PDFs, slides and documents into categories that are actual folders on the device. New downloads land in an inbox, categories nest, every file has a preview so you can recognize it even when its name says nothing, and there is undo plus a 30-day trash. Turkish interface, sideload-only APK, built with Flutter.
 
+<p align="center">
+  <a href="https://github.com/tungarix/dosya-dolabi">
+    <img src="https://raw.githubusercontent.com/tungarix/dosya-dolabi/main/docs/screenshot.jpg" width="100%" alt="Dosya Dolabı's inbox with sample files: a category tree on the left, file cards with previews of a spreadsheet, a document, slides and PDFs on the right.">
+  </a>
+</p>
+
 **Early access.** Checked in an Android 15 tablet emulator and at phone size, not yet on a physical device, so early testers are the point: [open an issue](https://github.com/tungarix/dosya-dolabi/issues) or [download the APK](https://github.com/tungarix/dosya-dolabi/releases/latest).
 
 | Topic | In short |
