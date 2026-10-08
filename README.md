@@ -71,7 +71,7 @@ This is where my tools live in the open: download them, read the code, and tell 
 
 ## Also shipped: Habit Tracker
 
-**No account, no server.** A desktop habit tracker: daily check-ins, a 30-day heat strip per habit, a Pomodoro focus timer, weekly tasks, mood tracking, a classic monthly grid view, and streak/completion stats — including a mood-to-completion correlation. Runs from the system tray, has keyboard shortcuts (`Ctrl+1..4` tabs, `Ctrl+N` new habit), an optional start-at-login toggle, and an evening reminder if you haven't checked in yet. Built with Flutter; your data lives in a local SQLite database.
+**No account, no server.** A desktop habit tracker: daily check-ins, a 30-day heat strip per habit, a Pomodoro focus timer, weekly tasks, mood tracking, a classic monthly grid view, and streak/completion stats — including a mood-to-completion correlation. Runs from the system tray, has keyboard shortcuts (`Ctrl+1..4` tabs, `Ctrl+N` new habit), an optional start-at-login toggle, an evening reminder if you haven't checked in yet, and a daily automatic local backup. Built with Flutter; your data lives in a local SQLite database.
 
 <p align="center">
   <a href="https://github.com/tungarix/habit-tracker">
@@ -86,7 +86,7 @@ Try it and tell me what's missing or broken: [open an issue](https://github.com/
 | **Data** | On your machine, local SQLite. No account, no server. |
 | **Backup** | Full JSON export/import — merge or replace. |
 | **Platform** | Windows, portable — unzip and run. |
-| **Quality** | 72 tests, CI + automated releases with GitHub Actions. |
+| **Quality** | 151 tests, CI on every push; every release is security-reviewed and ships with build attestation (GitHub Actions). |
 | **License** | MIT |
 
 <br>
