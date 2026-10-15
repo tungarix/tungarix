@@ -64,7 +64,7 @@ This is where my tools live in the open: download them, read the code, and tell 
 | :--- | :--- |
 | **Data** | On your machine, in local SQLite, with a daily automatic backup and recovery if the file gets damaged. No account, no server. |
 | **Portability** | `.ics` import and export, so you can move in from or out to other calendars. |
-| **Quality** | 775 tests, CI on every push; every release is security-reviewed, smoke-tested as a built `.exe` and ships with build attestation (GitHub Actions). |
+| **Quality** | 786 tests, CI on every push; every release is security-reviewed, smoke-tested as a built `.exe` and ships with build attestation (GitHub Actions). |
 | **License** | MIT |
 
 <br>
