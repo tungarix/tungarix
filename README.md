@@ -120,6 +120,9 @@ Found and fixed two Windows installer/test bugs in [avenoxbeyin](https://github.
 Traced two blockers that left a failed `update` unrecoverable, each reported with a full trace. The first, a Windows/MSIX deadlock, the maintainer fixed upstream in v3.6.0 and credited the report. For the second, where `recover` died on a stale checksum after a note was edited, I wrote the fix and its regression tests — merged the same day.
 [#139](https://github.com/avenoxai/avenoxbeyin/issues/139) · [#162](https://github.com/avenoxai/avenoxbeyin/pull/162) · [#181](https://github.com/avenoxai/avenoxbeyin/issues/181) · [#182](https://github.com/avenoxai/avenoxbeyin/pull/182)
 
+Reported an uninstall bug and a search-ranking gap measured on a real vault, then tested the contributed fixes against it on Windows. The tests caught that one fix would delete the user's own hook settings on uninstall, and that the new name boost also lifted generic-named archive notes; both were addressed before the fixes merged upstream.
+[#353](https://github.com/avenoxai/avenoxbeyin/issues/353) · [#354](https://github.com/avenoxai/avenoxbeyin/issues/354) · [#355](https://github.com/avenoxai/avenoxbeyin/pull/355) · [#357](https://github.com/avenoxai/avenoxbeyin/pull/357)
+
 <br>
 
 ---
