@@ -6,14 +6,14 @@
   <a href="https://github.com/tungarix/takvim"><b>Takvim</b></a> &nbsp; / &nbsp;
   <a href="https://github.com/tungarix/habit-tracker"><b>Habit Tracker</b></a> &nbsp; / &nbsp;
   <a href="https://github.com/tungarix/dosya-dolabi"><b>Dosya Dolabı</b></a> &nbsp; / &nbsp;
-  <a href="https://aktenak-site.ardaakg36.workers.dev/en/"><b>Aktenak</b></a> &nbsp; / &nbsp;
+  <a href="https://aktenak.tech/en/"><b>Aktenak</b></a> &nbsp; / &nbsp;
   <a href="https://x.com/tungarix"><b>X</b></a> &nbsp; / &nbsp;
   <a href="https://github.com/tungarix/takvim/issues"><b>Feedback</b></a>
 </p>
 
 <br>
 
-I'm **Arda**, a.k.a. **Tungarix**. I'm an Electrical & Electronics Engineering student and co-founder of **[Aktenak](https://aktenak-site.ardaakg36.workers.dev/en/)**, a two-person software studio, where I handle the code and systems side.
+I'm **Arda**, a.k.a. **Tungarix**. I'm an Electrical & Electronics Engineering student and co-founder of **[Aktenak](https://aktenak.tech/en/)**, a two-person software studio, where I handle the code and systems side.
 
 This is where my tools live in the open: download them, read the code, and tell me when something breaks.
 
@@ -41,9 +41,9 @@ This is where my tools live in the open: download them, read the code, and tell 
     </td>
     <td width="25%" valign="top">
       <sub>04 / STUDIO</sub>
-      <h3><a href="https://aktenak-site.ardaakg36.workers.dev/en/">Aktenak</a></h3>
+      <h3><a href="https://aktenak.tech/en/">Aktenak</a></h3>
       <p>A two-person studio based in Kocaeli, Türkiye. Small output, high care: narrow focus over broad promises.</p>
-      <p><a href="https://aktenak-site.ardaakg36.workers.dev/en/studio/"><b>Meet the studio →</b></a></p>
+      <p><a href="https://aktenak.tech/en/studio/"><b>Meet the studio →</b></a></p>
     </td>
   </tr>
 </table>
@@ -58,7 +58,7 @@ This is where my tools live in the open: download them, read the code, and tell 
   </a>
 </p>
 
-**It's looking for its first real users.** Try it and tell me what's missing or broken: [open an issue](https://github.com/tungarix/takvim/issues), or read more on the [product page](https://aktenak-site.ardaakg36.workers.dev/en/projects/takvim/).
+**It's looking for its first real users.** Try it and tell me what's missing or broken: [open an issue](https://github.com/tungarix/takvim/issues), or read more on the [product page](https://aktenak.tech/en/projects/takvim/).
 
 | Topic | In short |
 | :--- | :--- |
@@ -79,7 +79,7 @@ This is where my tools live in the open: download them, read the code, and tell 
   </a>
 </p>
 
-Try it and tell me what's missing or broken: [open an issue](https://github.com/tungarix/habit-tracker/issues), or read more on the [product page](https://aktenak-site.ardaakg36.workers.dev/en/projects/habit-tracker/).
+Try it and tell me what's missing or broken: [open an issue](https://github.com/tungarix/habit-tracker/issues), or read more on the [product page](https://aktenak.tech/en/projects/habit-tracker/).
 
 | Topic | In short |
 | :--- | :--- |
