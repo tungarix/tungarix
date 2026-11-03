@@ -60,7 +60,7 @@ This is where my tools live in the open: download them, read the code, and tell 
 
 **It's looking for its first real users.** Try it and tell me what's missing or broken: [open an issue](https://github.com/tungarix/takvim/issues), or read more on the [product page](https://aktenak.tech/en/projects/takvim/).
 
-**Now also on Android.** [Takvim (Android)](https://github.com/tungarix/takvim-mobil) is the phone version: offline, no account, and no internet permission at all. It moves data to and from the desktop app by a file you carry yourself, with last-write-wins merging. Sideload-only APK, early access (0.x); the desktop side of the sync is in Takvim 1.8.0 and later. [Download the APK](https://github.com/tungarix/takvim-mobil/releases/latest).
+**Now also on Android.** [Takvim (Android)](https://github.com/tungarix/takvim-mobil) is the phone version: offline and account-free. Its only network use is an optional Wi-Fi pairing with the desktop app: scan a QR code shown on the desktop with your phone's camera and the two devices sync directly over the same Wi-Fi, encrypted and pinned to the QR's certificate fingerprint, with a confirmation on both sides (the app's internet permission exists only for this; no server, no cloud). Syncing by moving a file still works too. Sideload-only APK, early access (0.x). [Download the APK](https://github.com/tungarix/takvim-mobil/releases/latest).
 
 | Topic | In short |
 | :--- | :--- |
