@@ -60,13 +60,13 @@ This is where my tools live in the open: download them, read the code, and tell 
 
 **It's looking for its first real users.** Try it and tell me what's missing or broken: [open an issue](https://github.com/tungarix/takvim/issues), or read more on the [product page](https://aktenak.tech/en/projects/takvim/).
 
-**Now also on Android.** [Takvim (Android)](https://github.com/tungarix/takvim-mobil) is the phone version: offline, no account, and no internet permission at all. It moves data to and from the desktop app by a file you carry yourself, with last-write-wins merging. Sideload-only APK, early access (0.x); the desktop side of the sync arrives with Takvim 1.8.0. [Download the APK](https://github.com/tungarix/takvim-mobil/releases/latest).
+**Now also on Android.** [Takvim (Android)](https://github.com/tungarix/takvim-mobil) is the phone version: offline, no account, and no internet permission at all. It moves data to and from the desktop app by a file you carry yourself, with last-write-wins merging. Sideload-only APK, early access (0.x); the desktop side of the sync is in Takvim 1.8.0 and later. [Download the APK](https://github.com/tungarix/takvim-mobil/releases/latest).
 
 | Topic | In short |
 | :--- | :--- |
 | **Data** | On your machine, in local SQLite, with a daily automatic backup and recovery if the file gets damaged. No account, no server. |
 | **Portability** | `.ics` import and export, so you can move in from or out to other calendars. |
-| **Quality** | 786 tests, CI on every push; every release is security-reviewed, smoke-tested as a built `.exe` and ships with build attestation (GitHub Actions). |
+| **Quality** | 926 tests, CI on every push; every release is security-reviewed, smoke-tested as a built `.exe` and ships with build attestation (GitHub Actions). |
 | **License** | MIT |
 
 <br>
