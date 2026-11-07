@@ -24,7 +24,7 @@ This is where my tools live in the open: download them, read the code, and tell 
     <td width="25%" valign="top">
       <sub>01 / CALENDAR</sub>
       <h3><a href="https://github.com/tungarix/takvim">Takvim</a></h3>
-      <p>A local-first desktop calendar. No account, no internet: your data stays on your machine.</p>
+      <p>A local-first desktop calendar. No account, no internet needed: your data stays on your machine.</p>
       <p><a href="https://github.com/tungarix/takvim/releases/latest"><b>Download for Windows →</b></a></p>
     </td>
     <td width="25%" valign="top">
@@ -50,7 +50,9 @@ This is where my tools live in the open: download them, read the code, and tell 
 
 ## On the workbench: Takvim
 
-**No account, no internet, one file.** A desktop calendar for Windows with day, week and month views, recurring events, tasks you can drop onto the calendar, reminders, and `.ics` import and export. Built with Python + pywebview; your data lives in a local SQLite file. Interface in Turkish or English.
+**No account, no internet needed, one file.** A desktop calendar for Windows with day, week and month views, recurring events, tasks you can drop onto the calendar, reminders, and `.ics` import and export. Built with Python + pywebview; your data lives in a local SQLite file. Interface in Turkish or English, light or dark.
+
+**New in 1.10.0: optional automatic updates.** The app asks once on first launch and makes no network request until you answer. If you say yes, it asks GitHub for the latest version at most once a day (no account, no data sent), always asks before installing, checks the download against the published SHA-256 and rolls back if a step fails. Versions up to 1.9.0 need one manual update.
 
 <p align="center">
   <a href="https://github.com/tungarix/takvim">
@@ -60,13 +62,13 @@ This is where my tools live in the open: download them, read the code, and tell 
 
 **It's looking for its first real users.** Try it and tell me what's missing or broken: [open an issue](https://github.com/tungarix/takvim/issues), or read more on the [product page](https://aktenak.tech/en/projects/takvim/).
 
-**Now also on Android.** [Takvim (Android)](https://github.com/tungarix/takvim-mobil) is the phone version: offline and account-free. Its only network use is an optional Wi-Fi pairing with the desktop app: scan a QR code shown on the desktop with your phone's camera and the two devices sync directly over the same Wi-Fi, encrypted and pinned to the QR's certificate fingerprint, with a confirmation on both sides (the app's internet permission exists only for this; no server, no cloud). Syncing by moving a file still works too. Sideload-only APK, early access (0.x). [Download the APK](https://github.com/tungarix/takvim-mobil/releases/latest).
+**Now also on Android.** [Takvim (Android)](https://github.com/tungarix/takvim-mobil) is the phone version: offline and account-free. Its network use is an optional Wi-Fi pairing with the desktop app and, since 0.4.0, an optional update check (off until you choose it; downloads are Wi-Fi-only by default and Android's own signature check has the last word). Pairing works like this: scan a QR code shown on the desktop with your phone's camera and the two devices sync directly over the same Wi-Fi, encrypted and pinned to the QR's certificate fingerprint, with a confirmation on both sides (no server, no cloud). Syncing by moving a file still works too. Sideload-only APK, early access (0.x). [Download the APK](https://github.com/tungarix/takvim-mobil/releases/latest).
 
 | Topic | In short |
 | :--- | :--- |
 | **Data** | On your machine, in local SQLite, with a daily automatic backup and recovery if the file gets damaged. No account, no server. |
 | **Portability** | `.ics` import and export, so you can move in from or out to other calendars. |
-| **Quality** | 926 tests, CI on every push; every release is security-reviewed, smoke-tested as a built `.exe` and ships with build attestation (GitHub Actions). |
+| **Quality** | 1,176 tests, CI on every push; every release is security-reviewed, smoke-tested as a built `.exe` and ships with build attestation (GitHub Actions). |
 | **License** | MIT |
 
 <br>
