@@ -7,7 +7,7 @@
   <a href="https://github.com/tungarix/habit-tracker"><b>Habit Tracker</b></a> &nbsp; / &nbsp;
   <a href="https://github.com/tungarix/dosya-dolabi"><b>Dosya Dolabı</b></a> &nbsp; / &nbsp;
   <a href="https://aktenak.tech/en/"><b>Aktenak</b></a> &nbsp; / &nbsp;
-  <a href="https://x.com/tungarix"><b>X</b></a> &nbsp; / &nbsp;
+  <a href="https://x.com/aktenakstudio"><b>X</b></a> &nbsp; / &nbsp;
   <a href="https://github.com/tungarix/takvim/issues"><b>Feedback</b></a>
 </p>
 
