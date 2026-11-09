@@ -35,10 +35,10 @@ This is where my tools live in the open: download them, read the code, and tell 
       <p><a href="https://github.com/tungarix/habit-tracker/releases/latest"><b>Download for Windows →</b></a></p>
     </td>
     <td width="25%" valign="top">
-      <sub>03 / AI</sub>
-      <h3><a href="https://github.com/tungarix/yerel-llm-8gb">Local LLM setup</a></h3>
-      <p>Two open-weight models on 8 GB of VRAM — measured llama.cpp flags, and a quantization finding.</p>
-      <p><a href="https://github.com/tungarix/yerel-llm-8gb"><b>Read the notes →</b></a></p>
+      <sub>03 / COMPANION</sub>
+      <h3><a href="https://github.com/tungarix/pati">Pati</a></h3>
+      <p>A desktop companion that lives on your screen, talks with a local AI and remembers you. No ads, no tracking.</p>
+      <p><a href="https://github.com/tungarix/pati/releases/latest"><b>Download for Windows →</b></a></p>
     </td>
     <td width="25%" valign="top">
       <sub>04 / STUDIO</sub>
