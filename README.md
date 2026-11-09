@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/tungarix/pati"><b>Pati</b></a> &nbsp; / &nbsp;
   <a href="https://github.com/tungarix/takvim"><b>Takvim</b></a> &nbsp; / &nbsp;
   <a href="https://github.com/tungarix/habit-tracker"><b>Habit Tracker</b></a> &nbsp; / &nbsp;
   <a href="https://github.com/tungarix/dosya-dolabi"><b>Dosya Dolabı</b></a> &nbsp; / &nbsp;
@@ -47,6 +48,12 @@ This is where my tools live in the open: download them, read the code, and tell 
     </td>
   </tr>
 </table>
+
+## New: Pati
+
+**A desktop companion that lives on your screen.** It talks with a local AI (llama.cpp, Ollama or LM Studio), remembers you in plain Markdown notes, opens apps, handles small file tasks and reminds you to take breaks. No ads, no tracking; the AI runs on your own computer. Windows, Electron, MIT. Latest: v0.5.7.
+
+**[Download for Windows →](https://github.com/tungarix/pati/releases/latest)** · [Project page](https://aktenak.tech/en/projects/pati/) · [Fan packs](https://github.com/tungarix/pati-fan-packs)
 
 ## On the workbench: Takvim
 
